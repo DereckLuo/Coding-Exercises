@@ -1,0 +1,25 @@
+package co.edureka.main;
+
+import co.edureka.packa.CA; // Import the class from other package into this source code
+
+class CB{
+	// Has no modifier -> it means default modifier
+	private void show(){ 
+		System.out.println("This is in show of CB");
+	}
+	
+	void hello(){
+		System.out.println("this is hello");
+	}
+}
+
+public class Exe {
+	public static void main(String[] args) {
+		CB cbRef = new CB();
+		// cbRef.show(); // error
+		cbRef.hello();
+		
+		CA caRef = new CA();
+		caRef.showA();
+	}
+}

@@ -1,0 +1,13 @@
+public class Exe {
+	// Execution of the program begins here
+	public static void main(String[] args) {
+		
+		// Construction of an Object dynamically -> at run time -> Heap is involved as memory
+		Student s1 = new Student();
+		// s1 -> Reference Variable constructed at compile time i.e. goes in stack
+		// new is an operator which creates the object on the heap i.e. dynamically at run time
+		// Student() -> Call to default Constructor
+		
+		System.out.println("s1 is: "+s1);
+	}
+}

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\leetcode\memory_management\memory_management\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\memory_management\memory_management\source.cpp(83): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\memory_management\memory_management\source.cpp(38): warning C4715: 'Memory::allocate': not all control paths return a value
+  Memory_management.vcxproj -> E:\LeetCode\Memory_management\Debug\Memory_management.exe

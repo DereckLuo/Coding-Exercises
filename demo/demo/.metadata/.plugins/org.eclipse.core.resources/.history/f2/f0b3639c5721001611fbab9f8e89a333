@@ -1,0 +1,17 @@
+package co.edureka;
+
+class Thread1 extends Thread{
+	@Override
+	public void run() {
+	
+	}
+}
+
+public class PrintTable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

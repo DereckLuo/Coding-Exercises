@@ -1,0 +1,51 @@
+abstract class Shape{ // It is a class for which a user cannot create objects
+	abstract void draw(); // It is a function which will have no body // It can only be declared in an abstract class
+}
+
+class Circle extends Shape{ // IS-A
+	void draw(){
+		System.out.println("Drawing a Circle");
+	}
+}
+
+class Rectangle extends Shape{
+	void draw(){
+		System.out.println("Drawing a Rectangle");
+	}
+}
+
+class Polygon extends Shape{
+	void draw(){
+		System.out.println("Drawing a Polygon");
+	}
+}
+
+
+public class RTP {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Shape s = new Shape();
+		//s.draw(); // Drawing a Shape
+		
+		//Circle c = new Circle();
+		//c.draw(); // Drawing a Circle
+		
+		Shape s;
+		//s = new Shape();
+		s = new Circle(); // Polymorphic Statement : LHS (Type: Shape) = RHS (Type:Shape bcoz Circle is a Shape)
+		s.draw(); // overriding shall come and draw of circle will be called
+
+		s = new Rectangle();
+		s.draw(); // rectangle's draw
+		
+		s = new Polygon();
+		s.draw(); // polygon's draw
+		
+		// s = new Shape(); NR
+		// defininition of draw is also not required
+		
+	}
+
+}

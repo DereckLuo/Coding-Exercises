@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="demo/ArrayDemo/src"/>
+	<classpathentry kind="src" path="demo/ExceptionDemo/src"/>
+	<classpathentry kind="src" path="demo/InfDeno/src"/>
+	<classpathentry kind="src" path="demo/InheritanceDemo/src"/>
+	<classpathentry kind="src" path="demo/LoopsAndConditions/src"/>
+	<classpathentry kind="src" path="demo/MethodDemo/src"/>
+	<classpathentry kind="src" path="demo/ObectDemo/src"/>
+	<classpathentry kind="src" path="demo/PackDemo/src"/>
+	<classpathentry kind="src" path="demo/StringDemo/src"/>
+	<classpathentry kind="src" path="demo/ThreadDemo/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="demo/ArrayDemo/bin"/>
+</classpath>

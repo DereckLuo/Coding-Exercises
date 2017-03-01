@@ -1,0 +1,8 @@
+﻿  majority.cpp
+e:\leetcode\229. majority element ii\229. majority element ii\majority.cpp(33): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\229. majority element ii\229. majority element ii\majority.cpp(35): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\229. majority element ii\229. majority element ii\majority.cpp(50): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\229. majority element ii\229. majority element ii\majority.cpp(51): warning C4018: '>': signed/unsigned mismatch
+e:\leetcode\229. majority element ii\229. majority element ii\majority.cpp(73): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\229. majority element ii\229. majority element ii\majority.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  229. Majority Element II.vcxproj -> E:\LeetCode\229. Majority Element II\Debug\229. Majority Element II.exe

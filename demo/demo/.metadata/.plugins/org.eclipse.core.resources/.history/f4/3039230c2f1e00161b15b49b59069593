@@ -1,0 +1,24 @@
+class Parent{
+	
+	int a;
+	
+	Parent(){ // Constructors are not inherited
+		a = 10;
+	}
+	
+	void show(){
+		System.out.println("This is show in parent");
+	}
+}
+
+class Child extends Parent{ // Inheritance
+	
+}
+
+
+class Exe {
+	public static void main(String[] args) {
+		Child ch = new Child();
+		ch.show();
+	}
+}

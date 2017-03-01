@@ -1,0 +1,30 @@
+package co.edureka;
+
+class Table{
+	void printTable(int num){
+		for(int i=1;i<=10;i++){
+			System.out.println(num+" "+i+"'s are "+(num*i));
+		}
+	}
+}
+
+class PrintThread1 extends Thread{
+	
+	PrintThread1() {
+	
+	}
+	
+	@Override
+	public void run() {
+	
+	}
+}
+
+public class PrintTable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

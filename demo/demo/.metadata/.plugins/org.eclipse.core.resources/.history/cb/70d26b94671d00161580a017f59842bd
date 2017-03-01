@@ -1,0 +1,6 @@
+public class Exe {
+	// Execution of the program begins here
+	public static void main(String[] args) {
+		
+	}
+}

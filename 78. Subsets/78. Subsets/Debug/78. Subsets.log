@@ -1,0 +1,9 @@
+﻿  subsets.cpp
+e:\leetcode\78. subsets\78. subsets\subsets.cpp(71): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\78. subsets\78. subsets\subsets.cpp(73): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\78. subsets\78. subsets\subsets.cpp(76): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\78. subsets\78. subsets\subsets.cpp(78): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\78. subsets\78. subsets\subsets.cpp(80): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\78. subsets\78. subsets\subsets.cpp(91): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\78. subsets\78. subsets\subsets.cpp(93): warning C4018: '<': signed/unsigned mismatch
+  78. Subsets.vcxproj -> E:\LeetCode\78. Subsets\Debug\78. Subsets.exe

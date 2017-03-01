@@ -1,0 +1,4 @@
+﻿  palindrome.cpp
+e:\leetcode\finding longest palindrome in string\finding longest palindrome in string\palindrome.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\finding longest palindrome in string\finding longest palindrome in string\palindrome.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  Finding Longest Palindrome in string.vcxproj -> E:\LeetCode\Finding Longest Palindrome in string\Debug\Finding Longest Palindrome in string.exe

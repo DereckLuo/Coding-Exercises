@@ -1,0 +1,13 @@
+package co.edureka.main;
+
+class CB{
+	void show(){
+		System.out.println("This is in show of CB");
+	}
+}
+
+public class Exe {
+	public static void main(String[] args) {
+
+	}
+}

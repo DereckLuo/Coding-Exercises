@@ -1,0 +1,33 @@
+package co.edureka;
+
+import java.io.IOException; // Checked Exception
+
+class MyClass{
+	
+	void hello(int i){
+		if(i == 100){
+			ArithmeticException ae = new ArithmeticException("Integer value 100 not allowed");
+			throw ae; // throw used to throw exceptions explicitly
+		}else{
+			System.out.println("i is: "+i);
+		}
+	}
+	
+	void bye(int i){
+		if(i == 1000){
+			IOException io = new IOException("Integer value 1000 not allowed");
+			throw io;
+		}else{
+			System.out.println("i is: "+i);
+		}
+	}
+	
+}
+
+public class ThrowDemo {
+	public static void main(String[] args) {
+		MyClass mcRef = new MyClass();
+		mcRef.hello(100); // compiler is not telling you to put this in try catch throwing an unchecked exception
+
+	}
+}

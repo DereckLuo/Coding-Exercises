@@ -1,0 +1,22 @@
+package co.edureka;
+
+class Message{
+	String message;
+	
+	void writeMessage(String message){
+		this.message = message;
+	}
+	
+	String readMessage(){
+		return message;
+	}
+}
+
+
+
+public class MessageSharing {
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,8 @@
+package co.edureka;
+
+public class MessageSharing {
+	public static void main(String[] args) {
+
+	}
+
+}

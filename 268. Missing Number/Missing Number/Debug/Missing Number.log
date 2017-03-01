@@ -1,0 +1,5 @@
+﻿  Missing_Number.cpp
+e:\leetcode\missing number\missing number\missing_number.cpp(46): warning C4018: '<=': signed/unsigned mismatch
+e:\leetcode\missing number\missing number\missing_number.cpp(57): warning C4101: 'ret': unreferenced local variable
+e:\leetcode\missing number\missing number\missing_number.cpp(39): warning C4715: 'Solution::missingNumber': not all control paths return a value
+  Missing Number.vcxproj -> E:\LeetCode\Missing Number\Debug\Missing Number.exe

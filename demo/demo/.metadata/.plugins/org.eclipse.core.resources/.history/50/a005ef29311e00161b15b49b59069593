@@ -1,0 +1,20 @@
+class Parent{
+	void purchaseCar(){
+		System.out.println("Lets purchase Maruti");
+	}
+}
+
+class Child extends Parent{
+	void purchaseCar(){
+		System.out.println("Lets purchase Honda");
+	}
+}
+
+public class OverridingDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

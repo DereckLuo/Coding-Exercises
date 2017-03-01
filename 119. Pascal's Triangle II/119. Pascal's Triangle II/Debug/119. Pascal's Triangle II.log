@@ -1,0 +1,5 @@
+﻿  getRow.cpp
+e:\leetcode\119. pascal's triangle ii\119. pascal's triangle ii\getrow.cpp(62): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\119. pascal's triangle ii\119. pascal's triangle ii\getrow.cpp(70): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\119. pascal's triangle ii\119. pascal's triangle ii\getrow.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  119. Pascal's Triangle II.vcxproj -> E:\LeetCode\119. Pascal's Triangle II\Debug\119. Pascal's Triangle II.exe

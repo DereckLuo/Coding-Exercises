@@ -1,0 +1,8 @@
+﻿  test2.cpp
+e:\leetcode\imc_test1\imc code\test2.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\imc_test1\imc code\test2.cpp(33): warning C4018: '>=': signed/unsigned mismatch
+  test1.cpp
+  practice.cpp
+  Generating Code...
+test2.obj : error LNK2005: _main already defined in test1.obj
+E:\LeetCode\IMC_test1\Debug\IMC Code.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,3 @@
+﻿  countNumber.cpp
+e:\leetcode\357. count numbers with unique digits\357. count numbers with unique digits\countnumber.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  357. Count Numbers with Unique Digits.vcxproj -> E:\LeetCode\357. Count Numbers with Unique Digits\Debug\357. Count Numbers with Unique Digits.exe

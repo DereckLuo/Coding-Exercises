@@ -1,0 +1,70 @@
+package co.edureka;
+
+class Message{
+	String message;
+	
+	public Message() {
+		message = "Nothing";
+	}
+	
+	void writeMessage(String message){
+		this.message = message;
+	}
+	
+	String readMessage(){
+		return message;
+	}
+}
+
+class WriterThread extends Thread{
+	Message m;
+	
+	WriterThread(Message m) {
+		this.m = m;
+	}
+	
+	@Override
+	public void run() {
+		synchronized (m) {
+			m.writeMessage("Being Exceptional is thumb rule to success");
+			System.out.println("Message Written");
+			
+			m.notify();
+		}
+	}
+}
+
+class ReaderThread extends Thread{
+	Message m;
+	
+	ReaderThread(Message m) {
+		this.m = m;
+	}
+	
+	@Override
+	public void run() {
+		synchronized (m) {
+			
+			try {
+				m.wait();
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+			String s = m.readMessage();
+			System.out.println("Message Read: "+s);
+		}
+	}
+}
+
+public class MessageSharing {
+	public static void main(String[] args) {
+		Message m = new Message(); // message contains nothing
+		ReaderThread rt = new ReaderThread(m);
+		WriterThread wt = new WriterThread(m);
+		
+		rt.start();
+		wt.start();
+	}
+}

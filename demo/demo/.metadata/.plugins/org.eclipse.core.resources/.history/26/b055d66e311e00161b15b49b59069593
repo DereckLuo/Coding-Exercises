@@ -1,0 +1,19 @@
+class Par{
+	void purchaseCar(){
+		System.out.println("Lets purchase Maruti");
+	}
+}
+
+class Chi extends Par{
+	
+}
+
+public class OverridingDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Chi child = new Chi();
+		child.purchaseCar();
+	}
+
+}

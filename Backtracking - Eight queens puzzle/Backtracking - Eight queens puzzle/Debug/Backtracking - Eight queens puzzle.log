@@ -1,0 +1,3 @@
+﻿  backtracking.cpp
+e:\leetcode\backtracking - eight queens puzzle\backtracking - eight queens puzzle\backtracking.cpp(141): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Backtracking - Eight queens puzzle.vcxproj -> E:\LeetCode\Backtracking - Eight queens puzzle\Debug\Backtracking - Eight queens puzzle.exe

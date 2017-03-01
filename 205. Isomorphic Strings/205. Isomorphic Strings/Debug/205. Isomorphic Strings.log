@@ -1,0 +1,4 @@
+﻿  isIsomorphic.cpp
+e:\leetcode\205. isomorphic strings\205. isomorphic strings\isisomorphic.cpp(28): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\205. isomorphic strings\205. isomorphic strings\isisomorphic.cpp(36): warning C4715: 'Solution::isIsomorphic': not all control paths return a value
+  205. Isomorphic Strings.vcxproj -> E:\LeetCode\205. Isomorphic Strings\Debug\205. Isomorphic Strings.exe

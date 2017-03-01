@@ -1,0 +1,4 @@
+﻿  random.cpp
+e:\leetcode\randomgenerator\randomgenerator\random.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : E:\LeetCode\RandomGenerator\Debug\RandomGenerator.exe not found or not built by the last incremental link; performing full link
+  RandomGenerator.vcxproj -> E:\LeetCode\RandomGenerator\Debug\RandomGenerator.exe

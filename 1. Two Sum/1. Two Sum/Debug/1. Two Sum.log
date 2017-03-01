@@ -1,0 +1,6 @@
+﻿  twoSum.cpp
+e:\leetcode\1. two sum\1. two sum\twosum.cpp(26): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\1. two sum\1. two sum\twosum.cpp(27): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\1. two sum\1. two sum\twosum.cpp(47): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\1. two sum\1. two sum\twosum.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  1. Two Sum.vcxproj -> E:\LeetCode\1. Two Sum\Debug\1. Two Sum.exe

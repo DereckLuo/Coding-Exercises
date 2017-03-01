@@ -1,0 +1,27 @@
+class A{
+	A(){
+		System.out.println("This is in A");
+	}
+}
+
+class B extends A{
+	B(){
+		System.out.println("This is in B");
+	}
+}
+
+
+class C extends B{
+	C(){
+		System.out.println("This is in C");
+	}
+}
+
+class ConsInher {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

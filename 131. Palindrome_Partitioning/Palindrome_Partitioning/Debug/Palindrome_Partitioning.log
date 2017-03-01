@@ -1,0 +1,16 @@
+﻿  partition.cpp
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(35): warning C4018: '>=': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(51): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(54): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(71): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(74): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(75): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(80): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(81): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(90): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(91): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(98): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(137): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\palindrome_partitioning\palindrome_partitioning\partition.cpp(139): warning C4018: '<': signed/unsigned mismatch
+  Palindrome_Partitioning.vcxproj -> E:\LeetCode\Palindrome_Partitioning\Debug\Palindrome_Partitioning.exe

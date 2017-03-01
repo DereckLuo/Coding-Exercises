@@ -1,0 +1,17 @@
+public class LoopsAndConditions {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World");
+		
+		byte a = 10;
+		byte b = 20;
+		
+		if(a>b){
+			System.out.println("a is greatest: "+a);
+		}else{
+			System.out.println("b is greatest: "+b);
+		}
+		
+	}
+}

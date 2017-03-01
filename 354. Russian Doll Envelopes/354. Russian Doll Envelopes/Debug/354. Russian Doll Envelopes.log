@@ -1,0 +1,6 @@
+﻿  maxEnvelopes.cpp
+e:\leetcode\354. russian doll envelopes\354. russian doll envelopes\maxenvelopes.cpp(30): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\354. russian doll envelopes\354. russian doll envelopes\maxenvelopes.cpp(32): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\354. russian doll envelopes\354. russian doll envelopes\maxenvelopes.cpp(33): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\354. russian doll envelopes\354. russian doll envelopes\maxenvelopes.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  354. Russian Doll Envelopes.vcxproj -> E:\LeetCode\354. Russian Doll Envelopes\Debug\354. Russian Doll Envelopes.exe

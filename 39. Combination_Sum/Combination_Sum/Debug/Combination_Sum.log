@@ -1,0 +1,7 @@
+﻿  sum.cpp
+e:\leetcode\combination_sum\combination_sum\sum.cpp(29): warning C4101: 'pos': unreferenced local variable
+e:\leetcode\combination_sum\combination_sum\sum.cpp(82): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\combination_sum\combination_sum\sum.cpp(85): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\combination_sum\combination_sum\sum.cpp(97): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\combination_sum\combination_sum\sum.cpp(99): warning C4018: '<': signed/unsigned mismatch
+  Combination_Sum.vcxproj -> E:\LeetCode\Combination_Sum\Debug\Combination_Sum.exe

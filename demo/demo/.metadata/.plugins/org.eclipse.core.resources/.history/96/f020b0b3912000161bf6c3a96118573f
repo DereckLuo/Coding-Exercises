@@ -1,0 +1,22 @@
+package co.edureka;
+
+public class Exe {
+	public static void main(String[] args) {
+
+		System.out.println("Main Started");
+		
+		int a = 10;
+		int b = 0;
+		
+		try{
+			int c = a/b; // error
+			System.out.println("c is: "+c);
+		}catch(ArithmeticException ae){
+			//System.out.println("Exception due to "+b);
+			System.out.println("Exception: "+ae.getMessage());
+		}
+		
+		System.out.println("Main Finished");
+		
+	}
+}

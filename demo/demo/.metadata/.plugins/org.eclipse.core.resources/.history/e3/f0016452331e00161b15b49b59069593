@@ -1,0 +1,45 @@
+class Shape{
+	void draw(){
+		System.out.println("Drawing a shape");
+	}
+}
+
+class Circle extends Shape{ // IS-A
+	void draw(){
+		System.out.println("Drawing a Circle");
+	}
+}
+
+class Rectangle extends Shape{
+	void draw(){
+		System.out.println("Drawing a Rectangle");
+	}
+}
+
+class Polygon extends Shape{
+	void draw(){
+		System.out.println("Drawing a Polygon");
+	}
+}
+
+
+public class RTP {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Shape s = new Shape();
+		//s.draw(); // Drawing a Shape
+		
+		//Circle c = new Circle();
+		//c.draw(); // Drawing a Circle
+		
+		Shape s;
+		//s = new Shape();
+		s = new Circle(); // Polymorphic Statement : LHS (Type: Shape) = RHS (Type:Shape bcoz Circle is a Shape)
+		
+		s.draw();
+
+	}
+
+}

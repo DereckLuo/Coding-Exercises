@@ -1,0 +1,15 @@
+package co.edureka.main;
+
+class CB{
+	// Has no modifier -> it means default
+	void show(){ 
+		System.out.println("This is in show of CB");
+	}
+}
+
+public class Exe {
+	public static void main(String[] args) {
+		CB cbRef = new CB();
+		cbRef.show();
+	}
+}

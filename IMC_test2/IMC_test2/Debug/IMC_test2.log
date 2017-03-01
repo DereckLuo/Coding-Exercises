@@ -1,0 +1,4 @@
+﻿  test2.cpp
+e:\leetcode\imc_test2\imc_test2\test2.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\imc_test2\imc_test2\test2.cpp(34): warning C4018: '>=': signed/unsigned mismatch
+  IMC_test2.vcxproj -> E:\LeetCode\IMC_test2\Debug\IMC_test2.exe

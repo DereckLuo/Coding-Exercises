@@ -1,0 +1,21 @@
+package co.edureka;
+
+class MyClass{
+	
+	void hello(int i){
+		if(i == 100){
+			ArithmeticException ae = new ArithmeticException();
+			throw ae; // throw used to throw exceptions explicitly
+		}else{
+			System.out.println("i is: "+i);
+		}
+	}
+	
+}
+
+public class ThrowDemo {
+	public static void main(String[] args) {
+		
+
+	}
+}

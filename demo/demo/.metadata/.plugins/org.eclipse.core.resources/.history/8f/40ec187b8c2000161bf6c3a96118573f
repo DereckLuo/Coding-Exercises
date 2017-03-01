@@ -1,0 +1,7 @@
+package co.edureka.packa;
+
+public class CA {
+	void showA(){
+		System.out.println("This is in show of CA");
+	}
+}

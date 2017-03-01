@@ -1,0 +1,5 @@
+﻿  merge.cpp
+e:\leetcode\merge_sorted_array\merge_sorted_array\merge.cpp(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\leetcode\merge_sorted_array\merge_sorted_array\merge.cpp(67): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\merge_sorted_array\merge_sorted_array\merge.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  Merge_Sorted_Array.vcxproj -> E:\LeetCode\Merge_Sorted_Array\Debug\Merge_Sorted_Array.exe

@@ -1,0 +1,7 @@
+public class MyMath {
+	//ack nof no input
+	void sayHello(){
+		System.out.println("This is Hello Start");
+		System.out.println("This is Hello End");
+	}
+}

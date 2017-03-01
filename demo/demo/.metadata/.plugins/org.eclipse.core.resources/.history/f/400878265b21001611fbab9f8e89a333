@@ -1,0 +1,36 @@
+package co.edureka;
+
+class Message{
+	String message;
+	
+	void writeMessage(String message){
+		this.message = message;
+	}
+	
+	String readMessage(){
+		return message;
+	}
+}
+
+class WriterThread extends Thread{
+	
+	Message m;
+	
+	WriterThread(Message m) {
+		this.m = m;
+	}
+	
+	@Override
+	public void run() {
+		synchronized (m) {
+			
+		}
+	}
+}
+
+public class MessageSharing {
+	public static void main(String[] args) {
+
+	}
+
+}

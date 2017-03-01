@@ -1,0 +1,6 @@
+﻿  PostTraverse.cpp
+e:\leetcode\bt_posttraversal\bt_posttraversal\posttraverse.cpp(17): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\leetcode\bt_posttraversal\bt_posttraversal\posttraverse.cpp(69): warning C4018: '>=': signed/unsigned mismatch
+e:\leetcode\bt_posttraversal\bt_posttraversal\posttraverse.cpp(120): warning C4018: '<': signed/unsigned mismatch
+e:\leetcode\bt_posttraversal\bt_posttraversal\posttraverse.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  BT_PostTraversal.vcxproj -> E:\LeetCode\BT_PostTraversal\Debug\BT_PostTraversal.exe

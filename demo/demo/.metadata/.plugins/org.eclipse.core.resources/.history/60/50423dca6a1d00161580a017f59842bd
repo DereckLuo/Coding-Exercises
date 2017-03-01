@@ -1,0 +1,56 @@
+// its a representation how an object will look like in the memory
+// its a blueprint
+class Student {
+	// Data Members
+	String name;
+	int age;
+	String email;
+	char gender;
+	String address;
+	
+	// Member Functions
+	
+	// 1. Setters
+	void setName(String n){
+		name = n;
+	}
+	
+	void setAge(int a){
+		age = a;
+	}
+	
+	void setEmail(String e){
+		email = e;
+	}
+	
+	void setGender(char g){
+		gender = g;
+	}
+	
+	void setAddress(String a){
+		address = a;
+	}
+	
+	//2. Getters
+	String getName(){
+		return name;
+	}
+	
+	int getAge(){
+		return age;
+	}
+	
+	char getGender(){
+		return gender;
+	}
+	
+	String getEmail(){
+		return email;
+	}
+	
+
+	String getAddress(){
+		return address;
+	}
+	
+}

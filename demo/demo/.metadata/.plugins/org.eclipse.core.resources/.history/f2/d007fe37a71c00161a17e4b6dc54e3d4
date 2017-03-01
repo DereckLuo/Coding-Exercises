@@ -1,0 +1,31 @@
+
+public class StringDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		char ch = 'A';
+		char[] name = {'H','E','L','L','O'};
+		
+		 
+		
+		// String is a Data Type in Java. It is predefined. It is a class.
+		// so str1 is a reference variable // String is a Reference Data Type just like array is
+		
+		String str1 = "Good Morning"; // Interned String
+		String str2 = new String("Hello"); // Non Interned String
+
+		String str3 = str1+str2; // concatenate
+		
+		System.out.println("str1 is: "+str1);
+		System.out.println("str2 is: "+str2);
+		System.out.println("str3 is: "+str3);
+		
+		// String is IMMUTABLE
+		
+		String title = "This is Awesome";
+		title.toLowerCase();
+		System.out.println(title);
+	}
+
+}

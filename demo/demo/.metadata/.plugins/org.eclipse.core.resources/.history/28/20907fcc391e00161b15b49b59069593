@@ -1,0 +1,27 @@
+class Counter{
+	int count;
+	
+	Counter(){
+		count = 1;
+	}
+	
+	void incrementCount(){
+		count++;
+	}
+	
+	void showCount(){
+		System.out.println("count is: "+count);
+	}
+	
+}
+
+
+
+public class StatDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

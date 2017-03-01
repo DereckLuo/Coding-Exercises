@@ -1,0 +1,12 @@
+public class Exe {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MyMath mm = new MyMath(); // Object Construction
+		// mm is a reference variable which is stoed in stack
+		// new is an operator which will create the object in the heap i.e. object will be created at run time
+		
+		mm.sayHello(); // Call or Invoke or Execute the Method/Function
+		mm.addNums(10, 20);
+	}
+}
+
