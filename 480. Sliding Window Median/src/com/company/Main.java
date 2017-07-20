@@ -12,8 +12,8 @@ public class Main {
      */
     public static void main(String[] args) {
 	// write your code here
-        int[] input = {1,3,-1,-3,5,3,6,7};
-        int k = 3;
+        int[] input = {1,3};
+        int k = 1;
         Solution sol = new Solution();
 
         double[] output = sol.medianSlidingWindow(input, k);

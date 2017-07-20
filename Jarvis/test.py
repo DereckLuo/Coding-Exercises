@@ -3,11 +3,14 @@
 # NOTE: this example requires PyAudio because it uses the Microphone class
 
 import speech_recognition as sr
+import pyttsx3
 
 # obtain audio from the microphone
 r = sr.Recognizer()
+engine = pyttsx3.init()
 with sr.Microphone() as source:
-    print("Say something!")
+    # print("Say something!")
+    engine.say("Good morning, what can I do for you?")
     audio = r.listen(source)
 
 # recognize speech using Google Speech Recognition
