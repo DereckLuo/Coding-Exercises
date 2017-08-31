@@ -1,0 +1,18 @@
+package com.company;
+
+public class Main {
+
+    /**
+     * 115. Distinct Subsequences
+     *
+     *      Given a string S and a string T, count the number of distinct subsequences of S
+     *      which equals T.
+     *
+     *      A subsequence of a string is a new string which is formed from the original
+     *      string by deleting some of the caracters without disturbing the relative positions
+     *      of the remaining characters
+     */
+    public static void main(String[] args) {
+	// write your code here
+    }
+}
